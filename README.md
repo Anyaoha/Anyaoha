@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... dart
 - 🤔 I’m looking for help with ... additional dev time
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My website]<a href=(www.ucheanyaoha.com)></a>
+- 📫 How to reach me: ... [My website](www.ucheanyaoha.com)
 - ⚡ Fun fact: ... I'm human 😄
 
 
