@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... dart
 - 🤔 I’m looking for help with ... additional dev time
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My website](www.ucheanyaoha.com)
+- 📫 How to reach me: ... [My website]<a href=(www.ucheanyaoha.com)></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm human 😄
 
@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
   
 ## &nbsp;Support
-
    <a href="bc1qzc4kkua3gcpzjl6evkqlhh9rj4k9ud0kj9tp8l" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   
   
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+<!--- ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+-->
