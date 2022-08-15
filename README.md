@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... community dev app.
 - 🌱 I’m currently learning ... solidity
 - 👯 I’m looking to collaborate on ... dart
@@ -11,6 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My website](www.ucheanyaoha.com)
 - ⚡ Fun fact: ... I'm human 😄
+
+
+
 
 
 
