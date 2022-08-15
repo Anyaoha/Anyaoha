@@ -71,6 +71,9 @@ Here are some ideas to get you started:
   
 ## &nbsp;Support
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+   <a href="bc1qzc4kkua3gcpzjl6evkqlhh9rj4k9ud0kj9tp8l" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  
+  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
