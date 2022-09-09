@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... dart
 - 🤔 I’m looking for help with ... additional dev time
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My website](www.ucheanyaoha.com)
+- 📫 How to reach me: ... [My website](https://ucheanyaoha.com)
 - ⚡ Fun fact: ... I'm human 😄
 
 
@@ -27,6 +27,7 @@
 - ♟️ Reading
 
 ## &nbsp;Social
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   <a href="https://www.instagram.com/ief_wears/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href = "mailto:uche@ucheanyaoha.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://twitter.com/intent/user?screen_name=elroczy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
