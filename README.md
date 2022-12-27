@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on ... global community dev app.
+- 🤼‍♀️ I’m currently working on ... activewear brand
 - 🌱 I’m currently learning ... solidity
 - 👯 I’m looking to collaborate on ... dart
 - 🤔 I’m looking for help with ... additional dev time
