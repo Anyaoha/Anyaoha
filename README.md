@@ -26,6 +26,10 @@
 - 🎸 Music
 - ♟️ Reading
 
+## &nbsp;My Apparel Brand
+<a href="https://ief.fit/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/iEF-INCLUSIVE-success" target="_blank" rel="noopener noreferrer"></a>
+
+
 ## &nbsp;Social  
 <a href="https://www.linkedin.com/in/uchenna-anyaoha/?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/ief_wears/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
@@ -70,6 +74,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 -->
+  
+## &nbsp;Platform 
+
+![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
+
+<!---![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+-->
+  
   
 ## &nbsp;Support
    <a href="bc1qzc4kkua3gcpzjl6evkqlhh9rj4k9ud0kj9tp8l" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
