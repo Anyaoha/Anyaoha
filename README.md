@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with ... additional dev time
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My website](https://ucheanyaoha.com)
-- ⚡ Fun fact: ... I'm human 😄
+- ⚡ Fun fact: ... I'm [Human](https://anyaoha.github.io/docs/d3blocks/my_particles.html) 😄
 
 
 <p align="left"> 
@@ -29,7 +29,7 @@
 - 🎸 Music
 - ♟️ Reading
 
-<iframe src="https://erdogant.github.io\docs\d3blocks\D3Blocks_white.html" height="170px" width="700px", frameBorder="0"></iframe>
+
 
 ## &nbsp;My Apparel Brand
 <a href="https://ief.fit/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/iEF-INCLUSIVE-success" target="_blank" rel="noopener noreferrer"></a>
