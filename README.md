@@ -1,5 +1,7 @@
-![](https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/Anyaoha.gif)
 
+<div align="center">
+   <img src="https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/Anyaoha.gif" alt="MySignature" />
+</div>
 
 
 ### Here is what I'm working on! 👋
