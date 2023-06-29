@@ -1,7 +1,5 @@
-<video controls loop>
-  <source src="https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/Anyaoha.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/Anyaoha.gif)
+
 
 
 ### Here is what I'm working on! 👋
