@@ -8,7 +8,7 @@
 
 
 
-- 🔭 As a member of [Global Citizen Forum](https://www.globalcitizenforum.org/)I’m currently working on ... global community dev app.
+- 🔭 As a member of [Global Citizen Forum](https://www.globalcitizenforum.org/), I’m currently working on ... global community dev app.
 - 🤼‍♀️ I’m currently working on ... activewear brand as a way to give back
 - 🌱 I’m currently learning ... solidity
 - 👯 I’m looking to collaborate on ... dart
