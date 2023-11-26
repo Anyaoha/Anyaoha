@@ -43,7 +43,7 @@
 
 ## &nbsp;Connect  
 <a href="https://www.linkedin.com/in/***/?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <a href="https://www.instagram.com/ief_wears/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.instagram.com/sinewslink/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href = "mailto:uche@ucheanyaoha.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://twitter.com/intent/user?screen_name=elroczy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
   <a href="https://stackoverflow.com/users/7779697/user7779697" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8165641" height="30" width="40" /></a>
