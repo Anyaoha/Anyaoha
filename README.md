@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with ... additional dev time (by help I mean both ways 😊)
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My website](https://ucheanyaoha.com)
-- ⚡ Fun fact: ... I'm [Human](https://anyaoha.github.io/docs/d3blocks/my_particles.html) 😄
+- ⚡ Fun fact: ... I'm [Human](https://anyaoha.github.io/docs/d3blocks/Anyaoha_transparent.html) 😄
 
 
 <p align="left"> 
