@@ -16,6 +16,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My website](https://ucheanyaoha.com)
 - ⚡ Fun fact: ... I'm [Human](https://anyaoha.github.io/docs/d3blocks/Anyaoha_transparent.html) 😄
+- 👁 My daily thoughts and activities: ... [Here they are](https://anyaoha.github.io/docs/my_daily_activities/my_daily_thoughts.html) 🚀
 
 
 <p align="left"> 
