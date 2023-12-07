@@ -54,7 +54,7 @@
 <div align="center">
 <!--  no link badges trick xD  -->
   <a href="https://github.com/Anyaoha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anyaoha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_rank=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anyaoha&show_icons=true&theme=synthwave&include_all_commits=true&hide_rank=false&count_private=true"/>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaoha&layout=compact&langs_count=8&theme=synthwave"/>
   -->
 </div>
