@@ -50,8 +50,9 @@
   <a href="https://stackoverflow.com/users/7779697/user7779697" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8165641" height="30" width="40" /></a>
   
 
-## &nbsp;Stats
+## &nbsp;Stats  - Private contributions are Hidden :)
 <div align="center">
+  
 <!--  no link badges trick xD  -->
   <a href="https://github.com/Anyaoha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anyaoha&show_icons=true&theme=synthwave&include_all_commits=true&hide_rank=false&count_private=true"/>
