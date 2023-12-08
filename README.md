@@ -28,7 +28,7 @@
 
 # &nbsp;Anyaoha.
 
-- An ML Engineer and developer creating value and looking for more opportunities to evolve!
+- An ML Engineer and developer creating value and looking for more opportunities to evolve! [Click](https://raw.githack.com/Anyaoha/Anyaoha.github.io/master/docs/my_daily_activities/my_daily_thoughts.html)
 
 ## &nbsp;Things I really like:
 - 💾 Technology
