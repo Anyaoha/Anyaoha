@@ -6,7 +6,10 @@
 
 ### Here is what I'm working on! 👋
 
-
+<div align="center">
+   <img src="
+https://htmlpreview.github.io/?https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/my_daily_activities/my_daily_thoughts.html" alt="Click to See my Daily Thoughts" />
+</div>
 
 - 🔭 As a member of [Global Citizen Forum](https://www.globalcitizenforum.org/), I’m currently working on ... global community dev app.
 - 🤼‍♀️ I’m currently working on ... activewear brand as a way to give back
