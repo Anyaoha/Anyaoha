@@ -30,6 +30,12 @@
 
 - An ML Engineer and developer creating value and looking for more opportunities to evolve! [Click](https://raw.githack.com/Anyaoha/Anyaoha.github.io/master/docs/my_daily_activities/my_daily_thoughts.html)
 
+
+<p align="center">
+<img width="500" src="https://github.com/Anyaoha/Anyaoha/blob/main/assets/github-snack.svg" />
+</p>
+
+
 ## &nbsp;Things I really like:
 - 💾 Technology
 - 🧩 Blockchain
