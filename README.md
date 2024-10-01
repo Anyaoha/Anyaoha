@@ -8,7 +8,7 @@
 
    [**Passionate AI developer, working on Data, Software and Machine Learning.  - CLICK HERE TO SEE MY DAILY THOUGHTS**](https://htmlpreview.github.io/?https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/my_daily_activities/my_daily_thoughts.html)
 
-- 🔭 As a member of [Global Citizen Forum](https://www.globalcitizenforum.org/), I’m currently working on ... global community dev app.
+- 🔭 As a proud member of [Global Citizen Forum](https://www.globalcitizenforum.org/), I’m currently developing a groundbreaking app designed to [empower global communities](https://sinewslink.com/).
 - 🤼‍♀️ I’m currently working on ... activewear brand as a way to give back
 - 🌱 I’m currently learning ... solidity
 - 👯 I’m looking to collaborate on ... dart
