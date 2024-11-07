@@ -3,8 +3,11 @@
    <img src="https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/Anyaoha.gif" alt="MySignature" />
 </div>
 
+<h1 align="center">
 
-### Here is what I'm working on! 👋
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;Here's+what+I'm+working+on!+👋;" />
+
+</h1>
 
    [**Passionate AI developer, working on Data, Software and Machine Learning.  - CLICK HERE TO SEE MY DAILY THOUGHTS**](https://htmlpreview.github.io/?https://github.com/Anyaoha/Anyaoha.github.io/blob/master/docs/my_daily_activities/my_daily_thoughts.html)
 
