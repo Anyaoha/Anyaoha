@@ -47,8 +47,23 @@
 
 
 
-## &nbsp;My Apparel Brand
+<!--## &nbsp;My Apparel Brand
 <a href="https://ief.fit/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/iEF-INCLUSIVE-success" target="_blank" rel="noopener noreferrer"></a>
+-->
+
+<!--<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+<!--<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Anyaoha/count.svg" alt="Visitor's Count" />
+</div>-->
+
+ <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyaoha&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
+  <!--<hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+  -->
+
 
 
 ## &nbsp;Connect  
@@ -65,6 +80,9 @@
 <!--  no link badges trick xD  -->
   <a href="https://github.com/Anyaoha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anyaoha&show_icons=true&theme=synthwave&include_all_commits=true&hide_rank=false&count_private=true"/>
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anyaoha&theme=xcode&hide_border=true" alt="Activity graph">
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaoha&layout=compact&langs_count=8&theme=synthwave"/>
   -->
 </div>
